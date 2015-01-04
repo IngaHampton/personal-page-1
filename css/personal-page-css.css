@@ -70,7 +70,8 @@ h2#welcome
 	display: block;
 	margin: auto;
 	list-style: none;
-    width: 600px;
+    width: 1200px;
+    margin: 0% -50%
     }
 
 #menu li
