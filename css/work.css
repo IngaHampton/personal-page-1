@@ -26,19 +26,6 @@ h1
         color: #404041;
         }
 
-#rand
-{
-font-size: 40px;
-        text-transform: uppercase;
-        letter-spacing: 2px; 
-        font-family: "Amatic SC";
-        font-weight: normal;
-        margin: -4% 10% 0% 29%;
-        font-weight: 700;
-        z-index: 1px;
-        position: absolute;
-        color: #404041;
-}
 
 .blank
 {
