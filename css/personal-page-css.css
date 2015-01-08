@@ -33,10 +33,11 @@ h2#title
         font-family: "Amatic SC";
         font-weight: normal;
         padding-bottom: 10px;
-        margin:30% 0% 0% 29%;
+        margin:30% 0% 0% 10%;
         font-weight: 700;
         z-index: 1px;
         position: absolute;
+        font-weight: 700;
         }
 
 h2#welcome
@@ -46,11 +47,15 @@ h2#welcome
         line-height: 1.35em;
         font-family: "Amatic SC";
         font-weight: normal;
-        padding-bottom: 10px;
-        margin: 35% 34% 20% 29%;
+        padding: 10px;
+        margin: 38% 34% 20% 9%;
         z-index: 1px;
         position: absolute;
         text-align: justify;
+        background-color: #EEEFF0;
+        opacity: 0.7;
+            
+    font-weight: 700;
         }
 
 #menu { 
@@ -135,6 +140,8 @@ margin: 0px 10px 10px -20px;
     background-color: #000;
 }
 -->
+
+
 .me
 
 {
