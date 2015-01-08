@@ -41,7 +41,7 @@ font-size: 40px;
 .blank
 {
         position:relative;
-        padding: 30% 10% 20% 10%;
+        padding: 30% 10% 30% 10%;
         background: #DBDADA;
         max-width: 100%;
 }
@@ -100,6 +100,22 @@ width: 100%;
     color: #fff;
         
     }
+
+h2.wallpaper
+
+{
+position: absolute;
+margin: -27% 0% 10% 40%;
+}
+
+
+iframe
+{
+    position: absolute;
+    margin: -20% -24%
+
+}
+
 
 #paul {
         height: 270px;
