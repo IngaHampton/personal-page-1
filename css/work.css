@@ -11,7 +11,7 @@ body
         color: #404041;
         text-align: center;
         }
-    
+
 h1 
         {
         font-size: 100px;
@@ -19,12 +19,23 @@ h1
         letter-spacing: 13px; 
         font-family: "Amatic SC";
         font-weight: normal;
-        margin: -23% 20% 0% 0%;
+        margin: -20% 10% 0% 0%;
         font-weight: 700;
         z-index: 1px;
         position: absolute;
         color: #404041;
         }
+
+h2
+
+{
+font-size: 40px;
+        text-transform: uppercase;
+        letter-spacing: 6px; 
+        font-family: "Amatic SC";
+        font-weight: normal;
+}
+
 
 
 .blank
