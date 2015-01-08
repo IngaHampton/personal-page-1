@@ -30,7 +30,7 @@
 		<use xlink:href="#SVGID_3_"  overflow="visible"/>
 	</clipPath>
 	<g clip-path="url(#SVGID_4_)">
-		<path fill="none" stroke="#FFFFFF" stroke-width="102" stroke-miterlimit="10" d="M4429.994,1660.948
+		<path fill="none" stroke="#FFFFFF" stroke-width="102" stroke-miterlimit="10" d="M4425.994,1637.948
 			c24.662,0,24.662,68,49.324,68s24.662-68,49.324-68c24.664,0,24.664,68,49.328,68c24.662,0,24.662-68,49.325-68
 			c24.667,0,24.667,68,49.333,68s24.666-68,49.332-68"/>
 	</g>
@@ -74,7 +74,7 @@
 		<use xlink:href="#SVGID_7_"  overflow="visible"/>
 	</clipPath>
 	<g clip-path="url(#SVGID_8_)">
-		<path fill="none" stroke="#FFFFFF" stroke-width="102" stroke-miterlimit="10" d="M2508.133,1669.392
+		<path fill="none" stroke="#FFFFFF" stroke-width="102" stroke-miterlimit="10" d="M2508.133,1641.392
 			c24.662,0,24.662,68,49.324,68s24.662-68,49.325-68c24.664,0,24.664,68,49.328,68c24.663,0,24.663-68,49.325-68
 			c24.666,0,24.666,68,49.333,68s24.667-68,49.333-68"/>
 	</g>
@@ -123,7 +123,7 @@
 		<use xlink:href="#SVGID_13_"  overflow="visible"/>
 	</clipPath>
 	<g clip-path="url(#SVGID_14_)">
-		<path fill="none" stroke="#FFFFFF" stroke-width="102" stroke-miterlimit="10" d="M1399.527,1541.968
+		<path fill="none" stroke="#FFFFFF" stroke-width="102" stroke-miterlimit="10" d="M1398.527,1523.968
 			c24.662,0,24.662,68,49.324,68c24.663,0,24.663-68,49.325-68c24.664,0,24.664,68,49.327,68c24.663,0,24.663-68,49.326-68
 			c24.666,0,24.666,68,49.333,68s24.667-68,49.333-68"/>
 	</g>
@@ -184,7 +184,7 @@
 	<polygon clip-path="url(#SVGID_18_)" fill="#FFFFFF" points="1964.396,1614.03 1878.502,1777.649 1956.084,1777.649 
 		2050.29,1777.649 	"/>
 </g>
-<rect x="-25.121" y="-30.993" opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" fill="#DCDADA" width="4816.954" height="2830.551"/>
+<rect x="-32.121" y="-62.472" opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" fill="#DCDADA" width="4816.953" height="2830.553"/>
 <g>
 	<g>
 		<circle fill="#FFFFFF" cx="524.822" cy="408.67" r="159.959"/>

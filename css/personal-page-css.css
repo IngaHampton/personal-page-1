@@ -185,7 +185,7 @@ h3
         line-height: 1.35em;
         font-family: ""Amatic SC"";
         font-weight: normal;
-        padding-bottom: 5%;
+        padding-bottom: 2%;
         padding-top: 10px;
         text-align: center;
         color: white;
@@ -987,10 +987,15 @@ z-index: 2px;
       
 }
 
+.heart
+{
+width: 50%;
+}
+
 .ten
         {
         position:relative;
-        padding: 10px 0px 10px 0px;
+        padding: 1% 0% 6% 0%;
         background: #418787;
         max-width: 100%;
         }
@@ -1017,7 +1022,7 @@ z-index: 2px;
 #more
         {
         position:relative;
-        padding: 10px 0px 0px 0px;
+        padding: 6% 0% 0% 0%;
         background: #393947;
         max-width: 100%;
         }
