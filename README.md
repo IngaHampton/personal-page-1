@@ -1,5 +1,5 @@
-personal-page-1
+Personal Page
 ===============
 
-http://ingahampton.github.io/personal-page-1/personal-page.html
+[Personal page] (http://ingahampton.github.io/personal-page-1/personal-page.html)
 
